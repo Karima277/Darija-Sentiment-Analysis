@@ -21,7 +21,7 @@ The dataset used is a collection of tweets in Moroccan Darija across various dom
 
 ## How to Use
 the model tkinzer and the saved model are provided you only need to install them and call them in a specific task !
-
+or you can easily download the data + the ipynb file and try them out :)
 ### Prerequisites
 
 Make sure you have Python 3.7+ installed along with the following libraries:
