@@ -12,6 +12,7 @@ A Python module for performing sentiment analysis on tweets written in Moroccan 
 
 ## Dataset
 
+
 The dataset used is a collection of tweets in Moroccan Darija across various domains:
 - Initially formatted as `MSAC.arff` and converted to a `CSV` file for easier use.
 - Labels are encoded as `1` (Positive) and `0` (Negative).
@@ -32,3 +33,14 @@ Make sure you have Python 3.7+ installed along with the following libraries:
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
+## Application Screenshots
+
+Below are some screenshots of the application:
+
+### Home Screen
+!![application](https://github.com/user-attachments/assets/0dc2a536-6fab-4723-8429-737c7029f6eb)
+### Upload Feature
+![Upload Feature](images/upload_feature.png)
+
+### Sentiment Results
+![Sentiment Results](images/results_screen.png)
