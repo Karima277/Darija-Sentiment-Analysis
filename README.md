@@ -38,7 +38,7 @@ Below are some screenshots of the application:
 
 ### Home Screen
 ![Application](https://github.com/user-attachments/assets/6c0ff268-a158-4a5e-b0eb-bb0c1ccf8900)
-!![App](https://github.com/user-attachments/assets/620792e2-e59e-42d0-b96d-4cf2990f7c23)
+![App](https://github.com/user-attachments/assets/620792e2-e59e-42d0-b96d-4cf2990f7c23)
 
 ### Sentiment Results
 ![App](https://github.com/user-attachments/assets/4a6edc97-0741-436a-b606-fcd148498f46)
