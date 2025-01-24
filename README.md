@@ -1,6 +1,6 @@
 # Darija-Sentiment-Analysis
 
-A Python module for performing sentiment analysis on tweets written in Moroccan Darija. The module is built using TensorFlow and includes functionalities for preprocessing, training, evaluating, and testing a sentiment analysis model.
+A Python model for performing sentiment analysis on tweets written in Moroccan Darija. The module is built using TensorFlow and includes functionalities for preprocessing, training, evaluating, and testing a sentiment analysis model.
 
 ## Features
 - Preprocess tweetS by tokenizing and padding text data.
